@@ -1,5 +1,5 @@
 
-# Gmail Email Deletion Bot
+# Inbox Ninja
 
 This Python script automates the deletion of emails from specified senders in your Gmail account using the Gmail API. The script runs in a loop, periodically checking and deleting emails from the specified senders.
 
@@ -41,7 +41,7 @@ You can edit `emails_to_delete.json` and add as many unwanted senders as you wan
 
 ### Step 4: Configure and Run the Script
 
-1. Save the script as `delete_emails.py`.
+1. Save the script as `InboxNinja.py`.
 2. Place the downloaded `credentials.json` file in the same directory as the script.
 3. Run the script using the following command:
 

@@ -1,1 +1,5 @@
-*json
+.vscode
+.pytest_cache
+credentials.json
+token.json
+bot.log
